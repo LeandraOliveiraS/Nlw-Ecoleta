@@ -5,8 +5,7 @@
 
 - [Sobre](#Sobre)
 - [Tecnologias utilizadas](#Tecnologias-utilizadas)
-- [Como ter acesso?](#Como-ter-acesso?)
-- [Resultado](#Resultado)
+- [Como acessar?](#Como-acessar?)
 
 <a id="Sobre"></a>
 ## Sobre
@@ -38,10 +37,10 @@ Que tem como principal objetivo facilitar e agilizar a conexão entre empresas e
 
 
 ---
-<a id="Como-ter-acesso?"></a>
-## :mag: Como ter acesso?
+<a id="Como-acessar?"></a>
+## :mag: Como acessar?
 
-O projeto não foi hospedado, mas pode pode ser executado em seu computador, para isto:
+O projeto não foi hospedado, mas você pode executá-lo em seu computador, para isto:
 
 - **Clone o repositório na sua máquina:**
 
@@ -61,6 +60,3 @@ O projeto não foi hospedado, mas pode pode ser executado em seu computador, par
   
     ```localhost:3000```
     
----
-<a id="Resultado"></a>
-
