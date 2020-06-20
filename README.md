@@ -1,14 +1,12 @@
 <img src="https://raw.githubusercontent.com/LeandraOliveiraS/NLW-Ecoleta/a57c84b4b5d2f0c0a0025fc6014a371d8295c5e3/public/icones/logo.svg" width=25%>
 
 
-## Índice
-
 - [Sobre](#Sobre)
 - [Tecnologias utilizadas](#Tecnologias-utilizadas)
 - [Como acessar?](#Como-acessar?)
 
 <a id="Sobre"></a>
-## Sobre
+## :pencil: Sobre
 
 O Ecoleta é um projeto desenvolvido pela trilha **Start** durante o evento **Next Level Week** produzido pela [RocketSeat](https://rocketseat.com.br/).
 Que tem como principal objetivo facilitar e agilizar a conexão entre empresas e entidades responsáveis pela coleta de lixo orgânico e/ou inorgânico com pessoas e empresas que necessitam descartar estes materiais e procuram fazer da melhor maneira possível para o meio ambiente.
