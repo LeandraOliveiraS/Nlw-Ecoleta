@@ -78,13 +78,12 @@ module.exports = db
         console.log("Aqui estão os seus registros: ")
         console.log(rows)
 
-    })  
+    })  */
      //4. Deletar um dado da tabela 
-    db.run(`DELETE FROM places WHERE id = ?`,[1], function(err){
-        if(err){
-            return console.log(err)
-        }
-        console.log("Registro deletado com sucesso")
+    db.run(`DELETE FROM places`)
+       // if(err){
+         //   return console.log(err)
+        //}
+        //console.log("Registro deletado com sucesso")
 
     })
-*/})
