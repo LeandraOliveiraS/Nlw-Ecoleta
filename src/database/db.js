@@ -80,7 +80,7 @@ module.exports = db
 
     })  */
      //4. Deletar um dado da tabela 
-    db.run(`DELETE FROM places`)
+    //db.run(`DELETE FROM places`)
        // if(err){
          //   return console.log(err)
         //}
