@@ -42,7 +42,7 @@ O projeto não foi hospedado, mas você pode executá-lo em seu computador, para
 
 - **Clone o repositório na sua máquina:**
 
-  ```git clone https://github.com/LeandraOliveiraS/NLW-Ecoleta.git```
+  ```git clone https://github.com/LeandraOS/NLW-Ecoleta.git```
 
 - **Instale o [NodeJS](https://nodejs.org/en/download/).**
 
