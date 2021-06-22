@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LeandraOliveiraS/NLW-Ecoleta/a57c84b4b5d2f0c0a0025fc6014a371d8295c5e3/public/icones/logo.svg" width=25%>
+<img src="https://raw.githubusercontent.com/LeandraOS/NLW-Ecoleta/a57c84b4b5d2f0c0a0025fc6014a371d8295c5e3/public/icones/logo.svg" width=25%>
 
 ## Índice
 - [Sobre](#Sobre)
